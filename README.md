@@ -4,7 +4,7 @@ Snakes and Spikes is an elementary python game designed to relieve you from stre
 
 ## Installation
 
-Download the python script. Run the following bash script:
+Download the python script. Run the following commands on your terminal:
 
 ```bash
 pip3 install pygame
