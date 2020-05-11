@@ -1,6 +1,6 @@
 # Snakes and Spikes!
 
-Snakes and Spikes is an elementary python game designed to relieve you from stress and boredom! The multiplayer game features a rabbit desperately trying to reach the other ed of the river as it gets past moving obstacles (snakes) and spikes.
+Snakes and Spikes is an elementary python game designed to relieve you from stress and boredom! The multiplayer game features a rabbit desperately trying to reach the other end of the river as it gets past moving obstacles (snakes) and spikes.
 
 ## Installation
 
